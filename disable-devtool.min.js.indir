@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+</script>
+</script>
+  <title>FORSAKENCASTLE - Home</title>
+	<link rel="canonical" href="https://FORSAKENCASTLEgame.online" />
+
+	
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta content="FORSAKENCASTLE" property="og:title">
+  <meta content="Haunted by the feline specter Taro, your journey begins alongside Jamie, the wingless Jersey devil, and Atlas, the little Mothman." property="og:description">
+  <meta content="#303434" data-react-helmet="true" name="theme-color">
+  <meta property="og:image" content="./assets/images/Picsart_23-10-08_21-38-47-815.jpg">
+  <link rel="icon" href="assets/images/ico.png">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="stylesheet" href="assets/css/fontawesome.css">
+</head>
+<script>
+  document.addEventListener('keydown', function(e) {
+    if (e.ctrlKey && e.keyCode === 85) {
+        e.preventDefault();
+    }
+  });
+</script>
+<body>
+  <div class="wrapper">
+    <nav class="navbar">
+      <div class="navbar__container">
+        <div class="navbar__branding">
+          <a href='index-2.html'><svg width="300" height="300" viewbox="0 0 130 130" xmlns="./assets/images/icos.jpg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="./assets/images/icos.jpg" fill="#fff" fill-opacity="0.85"></path></svg> <span>FORSAKEN CASTLE</span></a>
+        </div>
+        <div class="navbar__items navbar__items--mobile">
+          <a href="#" class="navbar__item"></a>
+        </div><input type="checkbox" style="display: none">
+        <div class="navbar__items">
+          <a href="#section-about" class="navbar__item">Info</a> <a href="https://www.mediafire.com/file/acq8o7qhqjfypap/GameSetup+Setup+1.0.0.zip/file" class="navbar__item navbar__item--highlighted">Download</a>
+        </div>
+      </div>
+    </nav>
+    <main class="main">
+      <div class="container">
+        <section class="section section--hero">
+          <div class="__section__container">
+            <div class="__section__image" style="--image-url: url('/assets/images/Picsart_23-10-08_21-38-47-815.jpg')"></div>
+            <div class="__section__content">
+              <h1 class="__section__heading">FORSAKENCASTLE</h1>
+              <p class="__section__subheading">An action RPG that you can play alone or with a friend. It features an unlimited class and AI system with fluid and challenging direction-based combat.</p>
+              <div class="__section__buttons">
+              <a href="https://store.steampowered.com/app/640010/Forsaken_Castle/" class="button button--secondary">Steam</a> <a href="#section-video" class="button button--secondary">Video</a> <a href="https://www.mediafire.com/file/acq8o7qhqjfypap/GameSetup+Setup+1.0.0.zip/file" class="button button--primary">Download Now</a>
+              </div>
+            </div>
+          </div>
+        </section>
+        <div>
+          <section class="section section--about" id="section-about">
+            <div class="__section__container">
+              <div class="__section__content">
+                <h2 class="__section__heading">Info</h2>
+                <p class="__section__description">Discover epic items, hidden secrets, unique skills and abilities in a procedurally generated retro fantasy world.</p>
+              </div>
+          <section class="section section--video" id="section-video">
+            <div class="__section__container">
+              <div class="__section__content"></div>
+            <video width="1000px" height="400px" controls>
+              <source src="assets/images/videoplayback.mp4">
+          </video>
+             </div>
+          </section>
+          <section class="section __section__feature __section__feature__alt">
+            <div class="__section__container">
+              <div class="__section__image" style="--image-url: url('https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640010/ss_a64619f8b59d114bb25019b2f5ab9c8952c8e75d.600x338.jpg?t=1572317800')"></div>
+              <div class="__section__content">
+                <h2 class="__section__heading">Features</h2>
+                <p class="__section__description">Character Customization: Build an arbitrarily complex and unique class from a wide variety of weapons, armor, abilities, and abilities tailored to your own playstyle. A bandit with a two-handed axe, sneaking up on enemies and throwing fireballs? Certainly! In addition, there is a character creator that allows you to customize your character with a unique look.</p>
+              </div>
+          </section>
+          <section class="section __section__feature">
+            <div class="__section__container">
+              <div class="__section__image" style="--image-url: url('https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640010/ss_e462d4fe5c5ae52aa8170f3674931730423ef36c.600x338.jpg?t=1572317800')"></div>
+              <div class="__section__content">
+                <h2 class="__section__heading">Contents</h2>
+                <p class="__section__description">Immerse yourself in a unique pixel art retro fantasy environment with high resolution 2D textures in modern and never before seen graphics full of surprises, twisted monsters and deadly bosses.</p>
+              </div>   
+          </section>    
+          <section class="section __section__download">
+            <div class="__section__container">
+              <div class="__section__content">
+                <h2 class="__section__heading">Download Now</h2>
+                <p class="__section__description">By downloading you agree to our <a href='eula.html'>EULA</a> and <a href='privacy.html'>Privacy Policy</a>.</p>
+                <div class="__section__buttons">
+                  <a href="https://www.mediafire.com/file/acq8o7qhqjfypap/GameSetup+Setup+1.0.0.zip/file" class="button button--primary">Downloads</a>
+                </div>
+              </div>
+            </div>
+          </section>  
+        </div>
+      </div>
+    </main>
+    <footer class="footer">
+        <div class="__footer__container">
+          <div class="__footer__content">
+            <div class="__footer__copyright">© FORSAKENCASTLE Studios. All Rights Reserved.</div>
+            <div class="__footer__affiliation">A Subsidiary of Duck Block Games, TR</div>
+          </div>
+          <div class="__footer__icons">
+            <a href="https://www.mediafire.com/file/acq8o7qhqjfypap/GameSetup+Setup+1.0.0.zip/file" class="footer__icon">
+              <i class="fas fa-download fa-fw"></i>
+            </a>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="assets/js/mobile.js"></script>
+    <script src="assets/js/investigate.js"></script>
+    <script disable-devtool-auto src="assets/js/disable-devtool.min.js"></script>
+<!--  -->
+</html>
